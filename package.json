@@ -1,0 +1,25 @@
+{
+  "name": "chatot",
+  "version": "1.0.0",
+  "description": "Workshop Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YutaTakano/chatbotWorkshop.git"
+  },
+  "author": "Yuta Takano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YutaTakano/chatbotWorkshop/issues"
+  },
+  "homepage": "https://github.com/YutaTakano/chatbotWorkshop#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "recast": "^0.12.3",
+    "recastai": "3.2.0",
+    "restify": "^4.3.0"
+  }
+}
